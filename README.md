@@ -16,7 +16,7 @@ Hands on AWS lab that demonstrates secure network architecture,logging,detection
 ### 1. Inject Misconfiguration  
 - **What:** Open SSH (TCP/22) to all IPv4 addresses on the private server’s security group.  
 - **Why:** Simulates an accidental or malicious policy change.  
-- **Screenshot:**  
+
  
 
 ### 2. Detect via CloudTrail  
